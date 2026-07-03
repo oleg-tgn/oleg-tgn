@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Oleg, a Frontend Developer with professional web experience since 2014.
+I'm Oleg, a Frontend Developer with professional experience since 2014.
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nextjs,figma)](https://skillicons.dev)
 
