@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Oleg, a Frontend Developer with professional web experience since 2014.
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nextjs,figma)](https://skillicons.dev)
+
+💬 Connect with me: [LinkedIn](https://www.linkedin.com/in/stelmakholegdev)
+
 <!--
 **oleg-tgn/oleg-tgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
